@@ -1,0 +1,29 @@
+Tarea 1
+
+Parte 1
+Calcular los componentes de los vectores cuando:
+
+$\vec AB$ , $\vec BC$ , $\vec CA$
+Dónde $\vec A$ = (4, 1) $\vec B$ = (-3, 0) $\vec C$ = (5, -2)
+
+Suma de vectores
+
+$\vec AB$ = $\vec A$ =  (4, 1) + $\vec B$ = (-3, 0) = (1, 1)
+
+$\vec BC$ = $\vec B$ =  (-3, 0) + $\vec C$ = (5, -2) = (2, -2)
+
+$\vec CA$ = $\vec A$ =  (4, 1) + $\vec C$ = (5, -2) = (9, -1)
+
+Parte 2
+$\vec MN$ , $\vec MP$ , $\vec NP$
+Dónde $\vec M$ = (1, 2, 3) $\vec N$ = (0, 4, -1) $\vec P$ = (1, -2, -2)
+
+Suma de vectores
+
+$\vec MN$ = $\vec M$ =  (1, 2, 3) + $\vec N$ = (0, 4, -1) = (1, 6, 2)
+
+$\vec MP$ = $\vec M$ =  (1, 2, 3) + $\vec P$ = (1, -2, -2) = (2, 0, 1)
+
+$\vec NP$ = $\vec N$ =  (0, 4, -1) + $\vec P$ = (1, -2, -2) = (1, 2, -3)
+
+
